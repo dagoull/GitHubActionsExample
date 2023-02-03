@@ -1,2 +1,2 @@
 # GitHubActionsExample
-Simple example of using GitHubActions
+## Simple example of using GitHubActions
